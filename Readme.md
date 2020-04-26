@@ -1,1 +1,1 @@
-# Tittle of the project
+# Title of the project
